@@ -1,0 +1,29 @@
+{
+    "id": "yml-report",
+    "version": "0.0.1",
+    "name": "YML Report",
+    "description": "YML reporting plugin",
+    "install": {
+        "windows": [],
+        "linux": [],
+        "darwin": []
+    },
+    "command": {
+        "windows": [
+            "bin/yml-report"
+        ],
+        "linux": [
+            "bin/yml-report"
+        ],
+        "darwin": [
+            "bin/yml-report"
+        ]
+    },
+    "scope": [
+        "Execution"
+    ],
+    "gaugeVersionSupport": {
+        "minimum": "0.8.0",
+        "maximum": ""
+    }
+}
